@@ -1,0 +1,27 @@
+{
+  "name": "awsapigateway",
+  "version": "0.0.1",
+  "description": "client for aws apigateway base on request",
+  "main": "lib/apigateway.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanbo/awsapigateway.git"
+  },
+  "keywords": [
+    "aws",
+    "api",
+    "gateway"
+  ],
+  "author": "guanbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guanbo/awsapigateway/issues"
+  },
+  "homepage": "https://github.com/guanbo/awsapigateway#readme"
+}
