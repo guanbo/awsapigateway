@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/guanbo/awsapigateway/issues"
   },
-  "homepage": "https://github.com/guanbo/awsapigateway#readme"
+  "homepage": "https://github.com/guanbo/awsapigateway#readme",
+  "dependencies": {
+    "aws-sdk": "^2.340.0",
+    "request": "^2.88.0"
+  }
 }
