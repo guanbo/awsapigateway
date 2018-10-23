@@ -1,6 +1,6 @@
 {
   "name": "awsapigateway",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "client for aws apigateway base on request",
   "main": "lib/apigateway.js",
   "directories": {
